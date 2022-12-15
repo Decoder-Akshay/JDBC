@@ -16,7 +16,8 @@ public class CollectionClass {
 			e.printStackTrace();
 		}
 		return conn;
-//this is edited by akshay
+//this is edited by akshay 
+//ok edited catch in ide ecplise
 	}
 		
 		
